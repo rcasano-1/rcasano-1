@@ -6,7 +6,7 @@
 
 - 👥 I’m looking to collaborate on ...
 
-- 📫 How to reach me: rjcasano@ncsu.edu (267-885-7590)
+- 📫 How to reach me: rcasano1@gmail.com (267-885-7590)
 
 <!---
 rcasano-1/rcasano-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
