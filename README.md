@@ -1,12 +1,12 @@
 - 👋🏼 Hi, I’m Robert Casano! 
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in embedded systems! 
 
-- 💻 I’m currently learning ...
+- 💻 I’m currently learning the Rust Programming Language! 
 
 - 👥 I’m looking to collaborate on ...
 
-- 📫 How to reach me: rcasano1@gmail.com (267-885-7590)
+- 📫 How to reach me: rcasano1@gmail.com
 
 <!---
 rcasano-1/rcasano-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
