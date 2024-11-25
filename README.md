@@ -4,8 +4,6 @@
 
 - 💻 I’m currently learning the Rust Programming Language! 
 
-- 👥 I’m looking to collaborate on ...
-
 - 📫 How to reach me: rcasano1@gmail.com
 
 <!---
